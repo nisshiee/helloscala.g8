@@ -1,0 +1,3 @@
+# sbt building
+target/
+project/boot/
